@@ -1,0 +1,43 @@
+.portfolio{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.portfolio li{
+    margin: .5rem;
+    padding: .5rem;
+}
+
+.portfolio li .portfolioTitle{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: .5rem;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.portfolio li .portfolioTitle::before{
+    content: '';
+    display: inline-block;
+    height: 1rem;
+    width: 1rem;
+    margin-right: .5rem;
+    background-image: url("/assets/img/icons/github.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+
+.portfolio li a{
+    color: white;
+    font-size: .8rem;
+    text-decoration: none;
+}
+
+.portfolio li a:hover{
+    text-decoration: underline;
+}

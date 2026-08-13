@@ -1,0 +1,64 @@
+.hardSkills{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    flex-wrap: wrap;
+}
+
+.hardSkills .tool{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: .5rem;
+    padding: .5rem;
+    background-color: rgba(0, 0, 255, 0.418);
+    border-radius: 1rem;
+}
+
+.hardSkills .tool img{
+    height: 4rem;
+    width: 4rem;
+    margin: .2rem;
+    padding: .2rem;
+}
+
+.hardSkills .tool .info{
+    display: flex;
+    flex-direction: column;
+    margin-left: .5rem;
+    padding: .2rem;
+}
+
+#toolName{
+    margin-bottom: .5rem;
+    font-weight: 700;
+}
+
+#level{
+    display: flex;
+    align-items: center;
+    font-size: .825rem;
+    
+}
+
+#level::before{
+    content: '';
+    display: inline-block;
+    height: 1.5rem;
+    width: 1.5rem;
+    margin-right: .3rem;
+    background-image: url("/assets/img/icons/lampada.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.softSkills{
+    display: flex;
+    flex-direction: row;
+}
+
+.softSkills li{
+    margin: 1rem;
+    padding: 1rem;
+    font-weight: 700;
+}
