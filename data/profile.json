@@ -1,0 +1,74 @@
+{
+  "photo": "https://avatars.githubusercontent.com/u/207758118?v=4",
+  "name": "João V C de Oliveira",
+  "job": "Desenvolvedor júnior",
+  "location": "Sorocaba - SP",
+  "phone": "(15) 998127366",
+  "email": "jvcoliveira2006@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/assets/img/icons/java.svg",
+        "level": "Intermediário"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/assets/img/icons/js.svg",
+        "level": "Intermediário"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/assets/img/icons/angular.svg",
+        "level": "Básico"
+      },
+      {
+        "name": "Spring",
+        "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/assets/img/icons/spring.svg",
+         "level": "Básico"
+      },
+      {
+        "name": "MySql",
+        "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/assets/img/icons/mysql.svg",
+        "level": "Básico"
+      },
+     {
+      "name": "CSS",
+      "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/assets/img/icons/css.svg",
+      "level": "Intermediário"
+    },
+    {
+      "name": "HTML",
+      "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/assets/img/icons/html.svg",
+      "level": "Intermediário"
+    },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/assets/img/icons/git.svg",
+        "level": "Básico"
+      }
+    ],
+    "softSkills": [
+      "Raciocínio lógico",
+      "Resolução de problemas",
+      "Trabalho em equipe"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês"
+  ],
+  "portfolio": [
+    {
+      "name": "Pokedex com JS",
+      "url": "https://github.com/joaocrvalho/pokedex/"
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Auxiliar administrativo / LZN Logística",
+      "period": "Maio 2026 - presente",
+      "description": "Responsável pelo suporte operacional de cargas, e auditoria de comprovantes de entrega via sistema próprio e Microsoft Excel."
+    }
+  ]
+}
