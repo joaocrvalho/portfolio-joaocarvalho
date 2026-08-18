@@ -47,7 +47,7 @@
     height: 1.5rem;
     width: 1.5rem;
     margin-right: .3rem;
-    background-image: url("/assets/img/icons/lampada.svg");
+    background-image: url("../img/icons/lampada.svg");
     background-repeat: no-repeat;
     background-size: contain;
 }

@@ -34,7 +34,7 @@
 .acordeon .trigger::after{
     content: '';
     margin-left: auto;
-    background-image: url("/assets/img/icons/arrowUp.svg");
+    background-image: url("../img/icons/arrowUp.svg");
     width: 2rem;
     height: 2rem;
     background-repeat: no-repeat;

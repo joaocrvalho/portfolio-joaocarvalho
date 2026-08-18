@@ -22,7 +22,7 @@
     height: 1rem;
     width: 1rem;
     margin-right: .5rem;
-    background-image: url("/assets/img/icons/check.svg");
+    background-image: url("../img/icons/check.svg");
     background-repeat: no-repeat;
     background-size: contain;
 }

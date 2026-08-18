@@ -43,19 +43,19 @@
 }
 
 .information .person::before{
-    background-image: url('/assets/img/icons/person.svg');
+    background-image: url('../img/icons/person.svg');
 }
 
 .information .location::before{
-    background-image: url('/assets/img/icons/geo.svg');
+    background-image: url('../img/icons/geo.svg');
 }
 
 .information .phone::before{
-    background-image: url('/assets/img/icons/whatsapp.svg');
+    background-image: url('../img/icons/whatsapp.svg');
 }
 
 .information .email::before{
-    background-image: url('/assets/img/icons/email.svg');
+    background-image: url('../img/icons/email.svg');
 }
 
 @media only screen and (min-width: 768px) {
