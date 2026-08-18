@@ -9,42 +9,42 @@
     "hardSkills": [
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/assets/img/icons/java.svg",
+        "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/data/toolsIcons/java.svg",
         "level": "Intermediário"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/assets/img/icons/js.svg",
+        "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/data/toolsIcons/js.svg",
         "level": "Intermediário"
       },
       {
         "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/assets/img/icons/angular.svg",
+        "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/data/toolsIcons/angular.svg",
         "level": "Básico"
       },
       {
         "name": "Spring",
-        "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/assets/img/icons/spring.svg",
+        "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/data/toolsIcons/spring.svg",
          "level": "Básico"
       },
       {
         "name": "MySql",
-        "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/assets/img/icons/mysql.svg",
+        "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/data/toolsIcons/mysql.svg",
         "level": "Básico"
       },
      {
       "name": "CSS",
-      "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/assets/img/icons/css.svg",
+      "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/data/toolsIcons/css.svg",
       "level": "Intermediário"
     },
     {
       "name": "HTML",
-      "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/assets/img/icons/html.svg",
+      "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/data/toolsIcons/html.svg",
       "level": "Intermediário"
     },
       {
         "name": "Git",
-        "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/assets/img/icons/git.svg",
+        "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/data/toolsIcons/git.svg",
         "level": "Básico"
       }
     ],
