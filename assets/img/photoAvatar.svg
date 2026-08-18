@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="64"
+     height="64"
+     viewBox="0 0 64 64"
+     fill="none">
+
+    <circle
+        cx="32"
+        cy="32"
+        r="30"
+        stroke="white"
+        stroke-width="3"/>
+
+    <circle
+        cx="32"
+        cy="24"
+        r="9"
+        fill="white"/>
+
+    <path
+        d="M15 52C16.5 42.5 23 38 32 38C41 38 47.5 42.5 49 52"
+        fill="white"/>
+</svg>
