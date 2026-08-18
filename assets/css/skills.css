@@ -55,6 +55,7 @@
 .softSkills{
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
 }
 
 .softSkills li{

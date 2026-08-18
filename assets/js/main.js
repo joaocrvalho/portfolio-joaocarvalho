@@ -27,10 +27,57 @@ function updateSoftSkills(profileData){
     softSkills.innerHTML = profileData.skills.softSkills.map(skill => `<li>${skill}</li>`).join('');
 }
 
+function updateHardSkills(profileData){
+    const hardSkills = document.getElementById("hardSkills");
+
+    hardSkills.innerHTML = profileData.skills.hardSkills.map(skill =>  
+
+        `<li class="tools">
+                    <div class="tool">
+                        <img src="${skill.logo}">
+                       
+                        <div class="info">
+                            <span id="toolName">${skill.name}</span>
+                            <span id="level">${skill.level}</span>
+                        </div>
+
+                    </div>
+        </li>`).join('');
+}
+
+function updateLanguages(profileData){
+    const languages = document.getElementById("languages")
+    languages.innerHTML = profileData.languages.map(language => `<li>${language}</li>`).join('');
+}
+
+function updatePortfolio(profileData){
+    const portfolio = document.getElementById("portfolio")
+    portfolio.innerHTML = profileData.portfolio.map(portfolio => 
+
+        `<li>
+            <span class="portfolioTitle">${portfolio.name}</span>
+            <a href="${portfolio.url}" target="_blank">${portfolio.url}</a>
+         </li>`).join('');
+}
+
+function updateExperiences(profileData){
+    const experiences = document.getElementById("experiences")
+    experiences.innerHTML = profileData.professionalExperience.map(experience => 
+        
+        `<li>
+            <h3>${experience.name}</h3>
+            <span class="period">${experience.period}</span>
+            <span>${experience.description}</span>
+        </li>`).join('');
+}
 
 
 (async () => {
     const profileData = await fetchProfileData();
     updateProfileInfo(profileData);
-    updateSoftSkills(profileData)
+    updateSoftSkills(profileData);
+    updateHardSkills(profileData);
+    updateLanguages(profileData);
+    updatePortfolio(profileData);
+    updateExperiences(profileData);
 })()
