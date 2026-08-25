@@ -1,0 +1,29 @@
+.education{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.education li{
+    display: flex;
+    flex-direction: column;
+}
+
+.education li .period{
+    margin-bottom: .5rem;
+    font-size: .825rem;
+}
+
+.education li .period::before{
+    content: '';
+    display: inline-block;
+    height: .825rem;
+    width: .825rem;
+    margin-right: .3rem;
+    background-image: url("../img/icons/calendar.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}

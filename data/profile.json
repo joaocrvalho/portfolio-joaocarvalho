@@ -14,7 +14,7 @@
       },
       {
         "name": "TypeScript",
-        "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/data/toolsIcons/js.svg",
+        "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/data/toolsIcons/ts.svg",
         "level": "Intermediário"
       },
       {
@@ -52,13 +52,27 @@
     {
       "name": "Pokedex com JS",
       "url": "https://github.com/joaocrvalho/pokedex/"
+    },
+    {
+      "name": "API de gestão de pessoas e livros",
+      "url": "https://github.com/joaocrvalho/rest-with-springboot-and-java"
     }
   ],
   "professionalExperience": [
     {
       "name": "Auxiliar administrativo / LZN Logística",
       "period": "Maio 2026 - presente",
-      "description": "Responsável pelo suporte operacional de cargas, e auditoria de comprovantes de entrega via sistema próprio e Microsoft Excel."
+      "description": "Assistente administrativo com função de garantir o envio correto das cargas e no recebimento dos comprovantes de envio."
+    }
+  ],
+   "education": [
+    {
+      "name": "Ensino médio integrado com TI",
+      "period": "Senac Sorocaba - 2024"
+    },
+    {
+      "name": "Tecnólogo em Análise e desenvolvimento de sistemas",
+      "period": "Facens - 2027 (cursando)"
     }
   ]
 }

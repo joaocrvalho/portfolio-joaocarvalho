@@ -71,6 +71,17 @@ function updateExperiences(profileData){
         </li>`).join('');
 }
 
+function updateEducation(profileData){
+    const education = document.getElementById("education")
+    education.innerHTML = profileData.education.map(edu =>
+
+        `<li>
+            <h3>${edu.name}</h3>
+            <span class="period">${edu.period}</span>
+        </li>`).join('');
+
+}
+
 
 (async () => {
     const profileData = await fetchProfileData();
@@ -80,4 +91,5 @@ function updateExperiences(profileData){
     updateLanguages(profileData);
     updatePortfolio(profileData);
     updateExperiences(profileData);
+    updateEducation(profileData);
 })()
