@@ -1,5 +1,5 @@
 {
-  "photo": "https://avatars.githubusercontent.com/u/207758118?v=4",
+  "photo": "https://avatars.githubusercontent.com/u/207758118?s=400&u=34d72b01878ba7c1a4770dc475e083d2be97f399&v=4",
   "name": "João V C de Oliveira",
   "job": "Desenvolvedor júnior",
   "location": "Sorocaba - SP",
@@ -13,14 +13,14 @@
         "level": "Intermediário"
       },
       {
-        "name": "JavaScript",
+        "name": "TypeScript",
         "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/data/toolsIcons/js.svg",
         "level": "Intermediário"
       },
       {
         "name": "Angular",
         "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/data/toolsIcons/angular.svg",
-        "level": "Básico"
+        "level": "Intermediário"
       },
       {
         "name": "Spring",
@@ -32,16 +32,6 @@
         "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/data/toolsIcons/mysql.svg",
         "level": "Básico"
       },
-     {
-      "name": "CSS",
-      "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/data/toolsIcons/css.svg",
-      "level": "Intermediário"
-    },
-    {
-      "name": "HTML",
-      "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/data/toolsIcons/html.svg",
-      "level": "Intermediário"
-    },
       {
         "name": "Git",
         "logo": "https://raw.githubusercontent.com/joaocrvalho/portfolio-joaocarvalho/refs/heads/main/data/toolsIcons/git.svg",
